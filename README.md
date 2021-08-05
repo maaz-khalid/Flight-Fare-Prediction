@@ -1,6 +1,6 @@
 # Flight Fare Prediction Web App deployed on Heroku
 
-The deployed web app is live at [here.](https://predict-fare-flight.herokuapp.com/)
+The deployed web app is live [here.](https://predict-fare-flight.herokuapp.com/)
 
 This web app predicts the airfare between source and destination based on departure details, arrival details, number of stops and choice of airline.
 
